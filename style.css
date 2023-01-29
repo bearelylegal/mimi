@@ -93,14 +93,14 @@ nav ul li {
   transform: translateX(-100%);
   transition: transform 0.4s ease-in;
 }
-nav ul li a,
+
+/* nav ul li a,
 a:hover,
 a:active,
 a:visited {
   color: white;
   text-decoration: none;
-}
-
+} */
 
 nav ul li i {
   font-size: 20px;
